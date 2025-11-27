@@ -1,6 +1,6 @@
-# Juice-Junction-Buisness-Project
+# Juice-Junction-Business-Project
 
-## Buisness Overview
+## Overview
 Juice Junction is a popular beverage and fast-food chain with multiple locations across Bangalore. It is a well-established business that caters to both local and out-of-town customers and is recognized for being a prominent player in the juice center and beverage retailer categories in the city. 
 Juice Junction aims to expand its product and service offerings to cater to a larger client base. 
 
